@@ -60,7 +60,7 @@ export default function ToolsWdiget() {
         <h1 className="mb-1 bg-gradient-to-r from-cyan-200 to-blue-500 bg-clip-text text-xl text-transparent poppins-bold ">
         Generate Youtube Video Description
       </h1>        
-      <p className="text-sm poppins-regular opacity-80">Maximize your video"s search ranking potential with our powerful tool for crafting optimized video descriptions.</p>
+      <p className="text-sm poppins-regular opacity-80">Maximize your videos search ranking potential with our powerful tool for crafting optimized video descriptions.</p>
       <div className="hover:opacity-40 hover:scale-105 mt-4 cursor-pointer ml-4 flex w-24 p-2 bg-gradient-to-r from-cyan-500 to-blue-500 text-lg rounded-xl">
       <button className="flex flex-row items-center justify-center w-full"
               onClick={()=>{handle_tool_prompt("Generate Youtube Video Description")}}
