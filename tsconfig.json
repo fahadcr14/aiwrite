@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/tools/toolswidget.js", "src/app/home/prompt_intr.js", "src/app/tools/components/chatwidget.tsx", "src/app/home/prompt_intr.js, "src/app/_app.js"", "src/app/tools/[toolname]/page.js", "src/app/tools/[toolname]/page.js", "src/app/tools/[slug]/page.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/tools/toolswidget.js", "src/app/home/prompt_intr.js", "src/app/tools/components/chatwidget.tsx", "src/app/home/prompt_intr.js", "src/app/_app.js", "src/app/tools/[toolname]/page.js", "src/app/tools/[toolname]/page.js", "src/app/tools/[slug]/page.js"],
   "exclude": ["node_modules"]
 }
